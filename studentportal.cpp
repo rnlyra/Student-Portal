@@ -1,8 +1,6 @@
 //Linked List
 #include <iostream>
 #include <string>
-#include <cstddef>
-#include <algorithm>
 using namespace std;
 
 struct Student {
